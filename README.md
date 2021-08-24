@@ -1,0 +1,2 @@
+# mymonday
+ idea
